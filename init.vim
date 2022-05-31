@@ -45,3 +45,5 @@ Plug 'nvim-telescope/telescope.nvim'
 Plug 'ellisonleao/gruvbox.nvim'
 
 call plug#end()
+
+colorscheme gruvbox
