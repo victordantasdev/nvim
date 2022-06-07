@@ -21,7 +21,7 @@ set scrolloff=5
 set noshowmode
 set colorcolumn=80
 set signcolumn=yes
-set cmdheight=2
+set cmdheight=1
 set updatetime=50
 
 " Plugins -> https://github.com/junegunn/vim-plug
